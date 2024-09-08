@@ -1,0 +1,4 @@
+https://www.edureka.co/blog/node-js-mysql-tutorial/
+
+command:
+node Task_1/index.js
