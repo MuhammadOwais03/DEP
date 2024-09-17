@@ -1,4 +1,19 @@
-https://www.edureka.co/blog/node-js-mysql-tutorial/
+I have added DIGITALEMPOWERMENTINTERNSHIP.rar file in which it contain both the task previously i only added the task wit package files but this time it conation node modules folder also in archive file you can check both task after extractiong it:
 
-command:
-node Task_1/index.js
+MAIN FILE STRUCTURE:
+
+  .gitignore
+  node_modules
+  package-lock.json
+  package.json
+  read.txt
+  Task_1
+  Task_2
+
+
+COMMAND TO RUN BOTH THE TASK:
+  nodemon Task_1/index.js
+  nodemon Task_2/index.js
+
+  In general:
+      . nodemon <folder-name>/index.js
