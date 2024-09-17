@@ -14,6 +14,6 @@ MAIN FILE STRUCTURE:
 COMMAND TO RUN BOTH THE TASK:
   nodemon Task_1/index.js
   nodemon Task_2/index.js
-
+ 
   In general:
       . nodemon <folder-name>/index.js
