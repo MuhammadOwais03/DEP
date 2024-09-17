@@ -8,7 +8,7 @@ MAIN FILE STRUCTURE:
   package.json
   read.txt
   Task_1
-  Task_2
+  Task_2 
 
 
 COMMAND TO RUN BOTH THE TASK:
